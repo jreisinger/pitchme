@@ -1,7 +1,6 @@
 # Flux 
 
-An application architecture for React
-
+Juraj, this is @color[orange](awesome)!
 ---
 
 ### Flux Design
